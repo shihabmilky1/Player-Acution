@@ -1,0 +1,143 @@
+[{
+  "id": 1,
+  "first_name": "Cristiano",
+  "last_name": "Ronaldo",
+  "national": "Portugal",
+  "age": 35,
+  "gender": "Male",
+  "current_club": "Juventus F.C",
+  "salary": 105000000,
+  "img":"https://i.ibb.co/s3wdz31/cristiano-ronaldo-1.jpg"
+}, {
+  "id": 2,
+  "first_name": "Lionel",
+  "last_name": "Messi",
+  "age": 33,
+  "national": "Argentina",
+  "gender": "Male",
+  "current_club": "F.C. Barcelona",
+  "salary": 104000000,
+  "img": "https://i.ibb.co/mhS5bDN/lionel-messi-2.jpg"
+}, {
+  "id": 3,
+  "first_name": "Neymar",
+  "last_name": "JR.",
+  "age": 28,
+  "national": "Brazil",
+  "gender": "Male",
+  "current_club": "Paris Saint-Germain F.C",
+  "salary": 95500000,
+  "img": "https://i.ibb.co/Km0fxmJ/neymar-1.jpg"
+}, {
+  "id": 4,
+  "first_name": "Mohamed",
+  "last_name": "Salah",
+  "age": 28,
+  "national": "Egypt",
+  "gender": "Male",
+  "current_club": "Liverpool F.C",
+  "salary": 35100000,
+  "img":"https://i.ibb.co/9ZhDqcp/mohamed-salah-4.jpg"
+}, {
+  "id": 5,
+  "first_name": "Kylian",
+  "last_name": "Mbappé",
+  "age":21,
+  "national": "France",
+  "gender": "Male",
+  "current_club": "Paris Saint-Germain F.C",
+  "salary": 33800000,
+  "img":"https://i.ibb.co/qYZm7ns/kylian-mbapp-1.jpg"
+}, {
+  "id": 6,
+  "first_name": "Andrés",
+  "last_name": "Iniesta",
+  "age": 36,
+  "national": "Spain",
+  "gender": "Male",
+  "current_club": "Vissel Kobe",
+  "salary": 29600000,
+  "img":"https://i.ibb.co/6PYPF9D/andrs-iniesta-7.jpg"
+}, {
+  "id": 7,
+  "first_name": "Mesut",
+  "last_name": "Özil",
+  "age": 31,
+  "national": "Germany",
+  "gender": "Male",
+  "current_club": "Arsenal F.C",
+  "salary": 28700000,
+  "img": "https://i.ibb.co/zFZXwXt/mesut-ozil-1.jpg"
+}, {
+  "id": 8,
+  "first_name": "Paul",
+  "last_name": "Pogba",
+  "age":27,
+  "national": "France",
+  "gender": "Male",
+  "current_club": "Manchester United F.C",
+  "salary": 28500000,
+  "img":"https://i.ibb.co/dBPmVVY/paul-pogba-4.jpg"
+}, {
+  "id": 9,
+  "first_name": "Oscar",
+  "last_name": "Júnior",
+  "age": 28,
+  "national": "Brazil",
+  "gender": "Male",
+  "current_club": "Shanghai SIPG F.C",
+  "salary": 27500000,
+  "img":"https://i.ibb.co/h13csw8/oscar-1.jpg"
+}, {
+  "id": 10,
+  "first_name": "Antoine",
+  "last_name": "Griezmann",
+  "age":29,
+  "national": "France",
+  "gender": "Male",
+  "current_club": "F.C. Barcelona",
+  "salary": 26700000,
+  "img":"https://i.ibb.co/XLMVhpg/antoine-griezmann-4.jpg"
+}, {
+  "id": 11,
+  "first_name": "Edinson",
+  "last_name": "Cavani",
+  "age":34,
+  "national": "Uruguay",
+  "gender": "Male",
+  "current_club": "Manchester United F.C",
+  "salary": 29700000,
+  "img":"https://i.ibb.co/4j5ZhG5/edinson-cavani-5.jpg"
+},
+{
+  "id": 12,
+  "first_name": "Gianluigi",
+  "last_name": "Buffon",
+  "age":43,
+  "national": "Italy",
+  "gender": "Male",
+  "current_club": "Juventus F.C",
+  "salary": 29700000,
+  "img":"https://i.ibb.co/4PZhcds/gianluigi-buffon-4.jpg"
+},
+{
+  "id": 13,
+  "first_name": "Luis",
+  "last_name": "Suarez",
+  "age":34,
+  "national": "Uruguay",
+  "gender": "Male",
+  "current_club": "Atlético Madrid",
+  "salary": 29700000,
+  "img":"https://i.ibb.co/xFBXXqR/luis-suarez-4.jpg"
+},{
+  "id": 14,
+  "first_name": "Philippe",
+  "last_name": "Coutinho",
+  "age":28,
+  "national": "Brazil",
+  "gender": "Male",
+  "current_club": "F.C. Barcelona",
+  "salary": 29700000,
+  "img":"https://i.ibb.co/t28wKGX/philippe-coutinho-1.jpg"
+}]
