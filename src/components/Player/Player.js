@@ -1,5 +1,7 @@
 import React from 'react';
 import './Player.css'
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { faUserPlus } from '@fortawesome/free-solid-svg-icons'
 const Player = (props) => {
     const { first_name, last_name, img, age, national, current_club, salary } = props.player;
     return (
@@ -17,8 +19,8 @@ const Player = (props) => {
                                 <p className="card-text">Age : {age}</p>
                                 <p className="card-text">National : {national}</p>
                                 <p className="card-text">Current Club : {current_club}</p>
-                                <p className="card-text">Salary : {salary}</p>
-                                <button onClick={() => props.handleAddPlayer(props.player)} className="btn btn-info">Add Team</button>
+                                <p className="card-text">Salary : $ {salary}M</p>
+                                <button onClick={() => props.handleAddPlayer(props.player)} className="btn btn-info"><FontAwesomeIcon style={{marginRight:'6px',marginBottom:'1px',fontSize:'15px'}} icon={faUserPlus}/>Add Team</button>
                             </div>
                             </div>
                         </div>
